@@ -1,0 +1,8 @@
+﻿  MainGame.cpp
+h:\users\peter\desktop\3rd year\semester2\graphicsprogramming\yer auld da\lab8\lab1\maingame.cpp(189): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+h:\users\peter\desktop\3rd year\semester2\graphicsprogramming\yer auld da\lab8\lab1\maingame.cpp(192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+h:\users\peter\desktop\3rd year\semester2\graphicsprogramming\yer auld da\lab8\lab1\maingame.cpp(218): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\users\peter\desktop\3rd year\semester2\graphicsprogramming\yer auld da\lab8\lab1\maingame.cpp(219): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\users\peter\desktop\3rd year\semester2\graphicsprogramming\yer auld da\lab8\lab1\maingame.cpp(226): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\users\peter\desktop\3rd year\semester2\graphicsprogramming\yer auld da\lab8\lab1\maingame.cpp(227): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Lab1.vcxproj -> H:\Users\Peter\Desktop\3rd year\Semester2\GraphicsProgramming\yer auld da\Lab8\Debug\Lab1.exe
